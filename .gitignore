@@ -1,0 +1,25 @@
+
+data/daily_close.csv
+data/daily_returns.csv
+data/daily_returns_test.csv
+data/intraday_returns.csv
+data/intraday_unadjusted.csv
+data/sentiment_features.csv
+data/term_structure.csv
+data/yield_curves.csv
+notebooks/.ipynb_checkpoints/Baseline-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/CCC GARCH-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/DCC GARCH-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/GARCH EDA-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/LSTM Sentiment Yield-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/LSTM Sentiment-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/LSTM Yield-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/LSTM-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Naive-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/Summary of Results-checkpoint.ipynb
+models/LSTM Sentiment Yield.h5
+models/LSTM Sentiment.h5
+models/LSTM Yield.h5
+models/LSTM.h5
+notebooks/__pycache__/GARCH.cpython-38.pyc
+notebooks/__pycache__/utils.cpython-38.pyc
